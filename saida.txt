@@ -1,0 +1,11 @@
+Melhor solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+    var(7) = 0.0
+    var(8) = 0.0
+Valor da solução: 10.0

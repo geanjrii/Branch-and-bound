@@ -1,0 +1,642 @@
+
+ Nível: 0
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 3.333333333333333
+    var(6) = 0.0
+Valor da solução: 33.33333333333333
+
+ Nível: 1
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 2.8571428571428568
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 28.57142857142857
+
+ Nível: 1
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 2.0
+    var(5) = 1.0
+    var(6) = 0.0
+Valor da solução: 30.0
+Nó podado: integralidade
+
+ Nível: 2
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 2.5
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 25.0
+
+ Nível: 2
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.625
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 26.25
+
+ Nível: 3
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 2.2222222222222223
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 17.77777777777778
+
+ Nível: 3
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 1.3333333333333335
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 20.666666666666668
+
+ Nível: 3
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.4444444444444446
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 21.555555555555557
+
+ Nível: 3
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.5555555555555556
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 24.444444444444443
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 2.2222222222222223
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 15.555555555555557
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 1.2222222222222223
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 16.555555555555557
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 1.3333333333333335
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 19.333333333333336
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 1.0
+    var(3) = 0.33333333333333337
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 20.333333333333332
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.4444444444444446
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 20.111111111111114
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.4444444444444445
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 21.11111111111111
+
+ Nível: 4
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.5555555555555556
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 23.88888888888889
+
+ Nível: 4
+Nó podado: inviável
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.9999999999999996
+Valor da solução: 11.999999999999996
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0999999999999999
+Valor da solução: 13.6
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0999999999999999
+Valor da solução: 14.6
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.19999999999999998
+Valor da solução: 16.2
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.2
+Valor da solução: 17.2
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.3
+Valor da solução: 18.8
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.3
+Valor da solução: 19.8
+
+ Nível: 5
+Nó podado: inviável
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 1.2999999999999998
+Valor da solução: 17.799999999999997
+Nó podado: limitante
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.39999999999999997
+Valor da solução: 19.4
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.39999999999999997
+Valor da solução: 20.4
+
+ Nível: 5
+Nó podado: inviável
+
+ Nível: 5
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.4999999999999999
+Valor da solução: 23.0
+
+ Nível: 5
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 2.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 4.0
+Nó podado: integralidade
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 1.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 8.0
+Nó podado: integralidade
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 1.1
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 9.2
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.1
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 13.2
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 1.1
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 10.2
+Nó podado: limitante
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.1
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 14.2
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.2
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 15.4
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 1.2
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 12.4
+Nó podado: limitante
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.2
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 16.4
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.3
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 17.6
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.3
+    var(1) = 1.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 18.6
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.4
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 17.8
+Nó podado: limitante
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.4
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 18.8
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 6
+Solução encontrada:
+    var(0) = 0.5
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 21.0
+
+ Nível: 6
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 7.0
+Nó podado: integralidade
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 1.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 9.0
+Nó podado: integralidade
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 13.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 14.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 15.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 1.0
+Valor da solução: 16.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 1.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 17.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 0.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 18.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 0.0
+    var(2) = 1.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 18.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+ Nível: 7
+Solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 20.0
+Nó podado: integralidade
+
+ Nível: 7
+Nó podado: inviável
+
+Melhor solução encontrada:
+    var(0) = 0.0
+    var(1) = 1.0
+    var(2) = 0.0
+    var(3) = 0.0
+    var(4) = 1.0
+    var(5) = 0.0
+    var(6) = 0.0
+Valor da solução: 20.0
